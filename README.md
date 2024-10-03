@@ -1,6 +1,7 @@
-## Leandro Kovalevski
-### Data Scientist
+## Hi there 👋
 
+I'm Leandro Kovalevski, I have a bachelor's degree in Statistics and a Master's degree in Analytics. I work as a Fraud Prevention Data Scientist at
+a leading e-commerce and financial services platform in Latin America.
 <!--
 **lkovalevski/lkovalevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
