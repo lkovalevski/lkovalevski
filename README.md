@@ -2,6 +2,13 @@
 
 I'm Leandro Kovalevski, I have a bachelor's degree in Statistics and a Master's degree in Analytics. I work as a Fraud Prevention Data Scientist at
 a leading e-commerce and financial services platform in Latin America.
+
+## Skills 💻
+
+[![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
+[![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 <!--
 **lkovalevski/lkovalevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
